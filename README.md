@@ -62,6 +62,7 @@ All blood physics logic, normal calculations for the cut shape, and interaction 
 **Click and Drag:** Creates a cut along the mouse path. <br>
 **The longer the stroke:** The more blood will be generated along the incision.<br>
 **Touch:** Works perfectly on mobile devices (phones and tablets).
+**Clear Screen Functionality:** Press the button to a clear the screen.
 
 ---
 
